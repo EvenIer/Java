@@ -1,3 +1,3 @@
 # Java
 
-This repository is use to record java learn demo.
+This repository is use to record java learn demo.test!
